@@ -14,6 +14,9 @@ baseurl:          '/hydeout'
                   # other pages at root, see the paginate_path and
                   # sidebar_blog_link below.
 
+# Build Settings
+remote_theme: fongandrew/hydeout
+
 author:
   name:           'Andrew Fong'
   url:            https://twitter.com/fongandrewc
@@ -58,6 +61,5 @@ google_analytics: UA-100461102-1
 
 # Used for Hydeout's own Github page. Feel free to remove for your
 # own fork.
-hydeout:
-  version:          4.0.2
+Github:
   repo:             https://github.com/meamank/meamank.github.io
